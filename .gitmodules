@@ -1,0 +1,6 @@
+[submodule "BPC203"]
+	path = BPC203
+	url = https://github.com/lixiii/BPC203.git
+[submodule "camera"]
+	path = camera
+	url = https://github.com/lixiii/PGR-Camera.git
